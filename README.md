@@ -52,3 +52,22 @@ The application extracts text from uploaded PDF resumes and uses Sentence Transf
 ## Purpose
 
 A portfolio project demonstrating NLP, semantic similarity, PDF processing, and interactive AI application development.
+
+
+## Application Screenshots
+
+### Screenshot 1
+![Application Screenshot 1](screenshots/Screenshot%202026-11-20%20133325.png)
+
+### Screenshot 2
+![Application Screenshot 2](screenshots/Screenshot%202026-11-20%20133359.png)
+
+### Screenshot 3
+![Application Screenshot 3](screenshots/Screenshot%202026-11-20%20133424.png)
+
+### Screenshot 4
+![Application Screenshot 4](screenshots/Screenshot%202026-11-20%20133436.png)
+
+### Screenshot 5
+![Application Screenshot 5](screenshots/Screenshot%202026-11-20%20133449.png)
+
